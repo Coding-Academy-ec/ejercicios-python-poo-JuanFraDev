@@ -1,5 +1,6 @@
 class Circulo:
     def __init__(self, radio):
+        self.radio = radio
         # Asigna el radio proporcionado al atributo 'radio'
 
     def calcular_area(self):
